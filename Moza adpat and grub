@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/maxhp20/Nagga/refs/heads/main/Moz"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/maxhp20/Best-auto-grab-trubl/refs/heads/main/Trubl"))()
